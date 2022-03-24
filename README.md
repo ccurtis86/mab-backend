@@ -3,6 +3,7 @@
 ### Prerequisites
 
 Install Docker
+
 Ensure you are not running any other virtual environments via Vagrant, Docker, etc. as these may interfer with this test server
 
 ### Steps
